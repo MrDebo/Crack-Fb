@@ -1,4 +1,4 @@
-####CARA INSTALL SCRIPT:
+##CARA INSTALL SCRIPT:
 Download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_118.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
 <ul>
 <li><code>$ pkg update && pkg upgrade</code></li>
@@ -13,4 +13,4 @@ Download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_
 <li><code>$ ls (huruf L&S kecil)</code></li>
 <li><code>$ python crack-fb.py</code></li>
 <br/>
-<img src="https://github.com/MrDebo/Dark-FbV2.5/blob/main/Screenshot_by_debo.jpg" />
+<img src="https://github.com/MrDebo/Crack-Fb/blob/main/Screenshot_2022-09-25-07-43-50-364_com.termux.jpg" />
