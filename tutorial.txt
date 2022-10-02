@@ -1,0 +1,28 @@
+Selamat Datang Para Pengguna Script Mr.Debo
+*Cara Install Bahan-Bahan
+$ pkg update && pkg upgrade
+$ pip install stdiomask
+$ pip install bs4
+$ pip install requests
+$ pkg install python
+$ pkg install git
+$ git clone https://github.com/MrDebo/Crack-Fb
+$ cd Crack-Fb
+$ git pull
+$ ls (huruf L&S kecil)
+$ python crack-fb.py
+
+
+Disini admin akan memberikan tutorial untuk login ke scriptnya:
+[1]. Yang pertama apabila kalian sudah install semua bahan2 nya kemudian kalian masukan Cookie fb tumbal usahakan jangan akun pribadi
+dan script ini tidak mendukung semua jenis Cookie, hanya Cookie tertentu contoh Cookie :
+datr=tg0RY5lm9uht6Uv4rgw9mTHq; sb=tg0RY-Eypt_OV_KDMk5Ji7OI; locale=id_ID; fr=0UK3qaEXhLdMgBHZ5.AWWPqE0M5NOwvTWanoB1svPkPiE.BjEQ22.jF.AAA.0.0.BjNcJe.AWXTsX7-GKs; c_user=100054770433125; xs=20:GNzmhxuOw8Mejg:2:1664467551:-1:11101; m_page_voice=100054770433125; m_pixel_ratio=2.75; wd=393x873
+[2]. Jika kalian sudah bisa login menggunakan Cokiee, silahkan gunakan scriptnya seperti script lain. 
+[3]. Semisal kalian tidak sengaja KELUAR atau menekan (CTRL+Z) dan ingin menggunakan scriptnya lagi silahkan pilih cara login yg kedua ([2]. Langsung Login) sehingga kalian tidak memasukan cokie lagi. 
+dan fitur LANGSUNG LOGIN ini hanya berlaku jika sebelumnya kalian sudah memasukan cokie dan berhasil login! 
+[4]. Jika kalian tidak bisa login menggunakan cokie berarti cokie anda tidak support dengan script ini maka dari itu cari cookie yang suport dengan script ini sampai kalian bisa login. contoh gambar cookie support (https://github.com/MrDebo/Crack-Fb/blob/main/Screenshot_2022-10-02-09-06-12-990_com.termux.jpg) 
+[5]. Dan jika kalian sudah login sebelumnya dan ingin menggunakan fitur langsung login, tetapi eror seperti gambar ini (https://github.com/MrDebo/Crack-Fb/blob/main/Screenshot_2022-09-30-07-40-45-531_com.termux-picsay.jpg) berarti akun tumb kalian checkpoint jadi silahkan jalankan lagi scriptnya kemudian pilih fitur MASUK DENGAN COOKIE dan masukan Cookie baru kalian! 
+[6]. Contoh Gambar Tampilan Scriptnya (https://github.com/MrDebo/Crack-Fb/blob/main/Screenshot_2022-10-02-20-43-02-875_com.termux.jpg) 
+       Contoh Gambar Tampilan (Langsung Login Ketika Eror/Akun checkpoint (https://github.com/MrDebo/Crack-Fb/blob/main/Screenshot_2022-09-30-07-40-45-531_com.termux-picsay.jpg) 
+       Contoh Gambar Tampilan (Login with cookie https://github.com/MrDebo/Crack-Fb/blob/main/Screenshot_2022-10-02-09-06-12-990_com.termux.jpg) 
+
