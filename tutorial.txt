@@ -23,6 +23,6 @@ dan fitur LANGSUNG LOGIN ini hanya berlaku jika sebelumnya kalian sudah memasuka
 [4]. Jika kalian tidak bisa login menggunakan cokie berarti cokie anda tidak support dengan script ini maka dari itu cari cookie yang suport dengan script ini sampai kalian bisa login. contoh gambar cookie support (https://github.com/MrDebo/Crack-Fb/blob/main/Screenshot_2022-10-02-09-06-12-990_com.termux.jpg) 
 [5]. Dan jika kalian sudah login sebelumnya dan ingin menggunakan fitur langsung login, tetapi eror seperti gambar ini (https://github.com/MrDebo/Crack-Fb/blob/main/Screenshot_2022-09-30-07-40-45-531_com.termux-picsay.jpg) berarti akun tumb kalian checkpoint jadi silahkan jalankan lagi scriptnya kemudian pilih fitur MASUK DENGAN COOKIE dan masukan Cookie baru kalian! 
 [6]. Contoh Gambar Tampilan Scriptnya (https://github.com/MrDebo/Crack-Fb/blob/main/Screenshot_2022-10-02-20-43-02-875_com.termux.jpg) 
-       Contoh Gambar Tampilan (Langsung Login Ketika Eror/Akun checkpoint (https://github.com/MrDebo/Crack-Fb/blob/main/Screenshot_2022-09-30-07-40-45-531_com.termux-picsay.jpg) 
-       Contoh Gambar Tampilan (Login with cookie https://github.com/MrDebo/Crack-Fb/blob/main/Screenshot_2022-10-02-09-06-12-990_com.termux.jpg) 
+     Contoh Gambar Tampilan (Langsung Login Ketika Eror/Akun checkpoint (https://github.com/MrDebo/Crack-Fb/blob/main/Screenshot_2022-09-30-07-40-45-531_com.termux-picsay.jpg) 
+     Contoh Gambar Tampilan (Login with cookie https://github.com/MrDebo/Crack-Fb/blob/main/Screenshot_2022-10-02-09-06-12-990_com.termux.jpg) 
 
